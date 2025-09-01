@@ -1,9 +1,7 @@
-import React from 'react';
-
 const CardsImage = () => {
   return (
     <svg width="1391" height="467" viewBox="0 0 1391 467" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-full h-auto">
-      <foreignObject x="-19.2658" y="192.245" width="717.126" height="638.94"><div xmlns="http://www.w3.org/1999/xhtml" style={{backdropFilter:"blur(10.63px)",clipPath:"url(#bgblur_1_2040_508_clip_path)",height:"100%",width:"100%"}}></div></foreignObject>
+      <foreignObject x="-19.2658" y="192.245" width="717.126" height="638.94"><div style={{backdropFilter:"blur(10.63px)",clipPath:"url(#bgblur_1_2040_508_clip_path)",height:"100%",width:"100%"}}></div></foreignObject>
       <g filter="url(#filter0_d_2040_508)" data-figma-bg-blur-radius="21.2658">
         <g clipPath="url(#clip0_2040_508)">
           <rect x="170.354" y="213.511" width="560" height="336.709" rx="35.443" transform="rotate(30 170.354 213.511)" fill="url(#paint0_linear_2040_508)"/>
@@ -17,7 +15,7 @@ const CardsImage = () => {
         <rect x="170.679" y="214.721" width="558.228" height="334.937" rx="34.557" transform="rotate(30 170.679 214.721)" stroke="url(#paint1_linear_2040_508)" strokeWidth="1.77215"/>
       </g>
       
-      <foreignObject x="161.734" y="-2.62032" width="635.396" height="720.67"><div xmlns="http://www.w3.org/1999/xhtml" style={{backdropFilter:"blur(10.63px)",clipPath:"url(#bgblur_3_2040_508_clip_path)",height:"100%",width:"100%"}}></div></foreignObject>
+      <foreignObject x="161.734" y="-2.62032" width="635.396" height="720.67"><div style={{backdropFilter:"blur(10.63px)",clipPath:"url(#bgblur_3_2040_508_clip_path)",height:"100%",width:"100%"}}></div></foreignObject>
       <g filter="url(#filter2_d_2040_508)" data-figma-bg-blur-radius="21.2658">
         <g clipPath="url(#clip2_2040_508)">
           <rect x="474.599" y="18.6455" width="560" height="336.709" rx="35.443" transform="rotate(60 474.599 18.6455)" fill="url(#paint2_linear_2040_508)"/>

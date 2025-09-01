@@ -1,5 +1,3 @@
-import React from 'react';
-
 const CreditCards = () => {
   const cards = [
     { 
@@ -71,7 +69,7 @@ const CreditCards = () => {
         </div>
       ))}
       
-      <style jsx>{`
+      <style>{`
         @keyframes float1 {
           0%, 100% { transform: translateY(0px) rotate(-12deg); }
           50% { transform: translateY(-20px) rotate(-12deg); }
